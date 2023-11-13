@@ -18,3 +18,5 @@ Ce projet est le fruit d'une collaboration entre moi-même et Jospin. Chaque mem
 
 ---
 *Ce fichier README sera mis à jour au fur et à mesure de l'avancement du projet.*
+
+My modif
